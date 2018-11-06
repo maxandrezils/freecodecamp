@@ -1,2 +1,5 @@
 # freecodecamp
-projects for freecodecamp certifications
+---
+
+The projects that form part of the freecodecamp certifications
+
